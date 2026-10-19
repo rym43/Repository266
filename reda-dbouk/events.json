@@ -1,0 +1,7 @@
+[
+  { "id": 1, "title": "Welcome Week Fair", "starts_at": "2026-10-21T10:00", "location": "Main Courtyard" },
+  { "id": 2, "title": "Android Workshop: Retrofit & Compose", "starts_at": "2026-10-22T14:00", "location": "Lab B204" },
+  { "id": 3, "title": "Career Talk: Mobile Developers", "starts_at": "2026-10-24T16:30", "location": "Auditorium A" },
+  { "id": 4, "title": "Football Tournament", "starts_at": "2026-10-26T09:00", "location": null },
+  { "id": 5, "title": "Hackathon Kickoff", "starts_at": "2026-10-30T18:00", "location": "Innovation Hub" }
+]
